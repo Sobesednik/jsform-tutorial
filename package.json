@@ -2,8 +2,9 @@
   "name": "jsform-tutorial",
   "version": "1.0.0",
   "description": "JSForm allows to validate forms and submit them via AJAX request",
-  "main": "index.js",
+  "main": "build/lib/index.js",
   "scripts": {
+    "build": "rm -rf build && tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
