@@ -1,0 +1,21 @@
+{
+  "name": "jsform-tutorial",
+  "version": "1.0.0",
+  "description": "JSForm allows to validate forms and submit them via AJAX request",
+  "main": "build/lib/index.js",
+  "scripts": {
+    "build": "rm -rf build && tsc",
+    "postinstall": "typings install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "author": "Sobesednik-Media",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "typescript": "^1.9.0-dev.20160416",
+    "typings": "^0.7.12"
+  }
+}
