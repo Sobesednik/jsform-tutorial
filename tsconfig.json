@@ -6,6 +6,8 @@
         "outDir": "build"
     },
     "exclude": [
+        "typings/main.d.ts",
+        "typings/main",
         "node_modules"
     ]
 }
