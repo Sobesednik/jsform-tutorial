@@ -14,6 +14,7 @@
   "author": "Sobesednik-Media",
   "license": "Apache-2.0",
   "devDependencies": {
-    "typescript": "^1.9.0-dev.20160416"
+    "typescript": "^1.9.0-dev.20160416",
+    "typings": "^0.7.12"
   }
 }
